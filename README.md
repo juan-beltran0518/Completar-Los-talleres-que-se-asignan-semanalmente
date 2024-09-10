@@ -1,7 +1,8 @@
 # Completar-Los-talleres-que-se-asignan-semanalmente
-#Repositorio - Operaciones con Vectores y Matrices Complejas
+# Repositorio - Operaciones con Vectores y Matrices Complejas
 
-Este repositorio está dedicado a la implementación y estudio de diversas operaciones fundamentales con vectores y matrices complejas, herramientas clave en áreas como álgebra lineal, mecánica cuántica y teoría de la información cuántica. A continuación, se detallan las operaciones incluidas:
+Este repositorio está dedicado a la implementación y estudio de diversas operaciones fundamentales con vectores y matrices complejas, herramientas clave en áreas como álgebra lineal, 
+mecánica cuántica y teoría de la información cuántica. A continuación, se detallan las operaciones incluidas:
 
 1. **Adición de vectores complejos**: Implementación de la suma entre dos vectores en el espacio complejo.
 2. **Inverso aditivo de un vector complejo**: Cálculo del inverso aditivo de un vector, es decir, el vector cuya suma con el original da como resultado el vector nulo.

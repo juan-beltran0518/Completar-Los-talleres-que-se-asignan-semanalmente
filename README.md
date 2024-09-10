@@ -1,4 +1,4 @@
-# Completar-Los-talleres-que-se-asignan-semanalmente
+# Completar - Los - Talleres - Que - Se - Asignan - Semanalmente
 # Repositorio - Operaciones con Vectores y Matrices Complejas
 
 Este repositorio está dedicado a la implementación y estudio de diversas operaciones fundamentales con vectores y matrices complejas, herramientas clave en áreas como álgebra lineal, 

@@ -25,15 +25,22 @@ mecánica cuántica y teoría de la información cuántica. A continuación, se 
 
 Cada operación está implementada de manera eficiente, con el objetivo de facilitar la comprensión y aplicación de las propiedades algebraicas en sistemas complejos.
 
-##Proceso De Instalacion - Copia De Archivos 
+## Proceso De Instalacion - Copia De Archivos 
 
-###Introducción a la Instalación de Python
+### Introducción a la Instalación de Python
 Python es un lenguaje de programación ampliamente utilizado por su simplicidad y potencia, siendo una excelente herramienta para el desarrollo de aplicaciones 
 científicas y matemáticas, incluyendo el manejo de vectores y matrices complejas. A continuación, se describe un breve proceso para instalar Python en su sistema con
 el fin de poder utilizar bien los archivos de este repositorio ya que en este lenguaje se montaron todas las operaciones.
 
-###Pasos para la instalación:
+### Pasos para la instalación:
 1. Descargar Python: Visite el sitio oficial de Python en python.org y descargue la última versión estable compatible con su sistema operativo (Windows, macOS o Linux).
 2. Instalar Python: Ejecute el instalador descargado y siga las instrucciones. Asegúrese de seleccionar la opción "Add Python to PATH" antes de continuar con la instalación.
 3. Verificar la instalación: Abra una terminal o línea de comandos y escriba python --version o python3 --version para confirmar que la instalación fue exitosa y la versión correcta está instalada.
 4. Instalar paquetes adicionales: Instale pip, el administrador de paquetes de Python (si no viene incluido), utilizando el comando python -m ensurepip. Luego, puede instalar bibliotecas adicionales como numpy o scipy con pip install numpy scipy.
+
+## Lenguaje usado:
+* Python
+* GIT
+* Jupyter
+
+# Archivos

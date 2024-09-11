@@ -47,4 +47,5 @@ el fin de poder utilizar bien los archivos de este repositorio ya que en este le
 * Complex_Vector_Matrix_Operations_with_NumPy.ipynb
 * TallerEsp.Vect-Hermitian-Unitary-Tensor-Circuits.ipynb
 * TallerEsp.Vect-ProdInterno-VectoPropios.ipynb
+* ComplexIntro.ipynb
 * Images
